@@ -64,9 +64,10 @@ Mentor: Dr. Saneesh Cleatus | 2024–25
 
 | Name | Role |
 |------|------|
-| Alan Biju | Mechanical design and hardware |
-| Tejashwini S Uranakar | Control algorithms and software |
+| Alan Biju | Mechanical design and hardware 
 | Arindam Kashyap | Mechanical design and hardware |
+| Tejashwini S Uranakar | Control algorithms and software |
+
 
 ## Award
 
