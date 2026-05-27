@@ -1,4 +1,4 @@
-# Robotic Tentacle Arm — Concept Design
+# Robotic Tentacle Arm : Concept Design
 
 Bio-inspired tendon-driven robotic arm concept with a multi-jointed
 end-effector, designed for delicate agricultural produce handling.
