@@ -56,7 +56,7 @@ of Dr. Octopus — prioritizing flexibility over rigidity.
 
 ## Academic Context
 
-**Concept Project — Electronics & Communication Engineering**
+**Concept Project - Electronics & Communication Engineering**
 BMS Institute of Technology and Management, Bengaluru
 Mentor: Dr. Saneesh Cleatus | 2024–25
 
